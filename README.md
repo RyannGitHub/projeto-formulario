@@ -4,13 +4,6 @@
 <p>Este projeto tem como objetivo desenvolver um formulário responsivo e visualmente atraente, destinado a empresas do setor de hotelaria. 
   A meta é proporcionar uma experiência de usuário intuitiva e agradável, simplificando o processo de reserva e a coleta de informações dos clientes.</p>
 
-  <h2>Valor Investido</h2>
-
-<p>O valor total investido neste projeto foi de R$ 0,00</p>
-
-<h2>Tempo Investido</h2>
-
-<p>O tempo investido neste projeto superou o valor gasto, totalizando 3 horas de trabalho.</p>
 
 
 <h4>Feito por</h4>
